@@ -49,6 +49,6 @@ Date: 2026-05-01
 -----
 
 ## Note
-My project is simple and focuses on inheritance basically.
+My project is simple and focuses on inheritance.
 ## Made by; 
 KEBRON TESHOME KEBEDE (Student id- 0056/26)
